@@ -531,9 +531,9 @@
         {
             "name": "Custom Options Menu",
             "author": "Jimk72",
-            "version": "4.2",
+            "version": "4.3",
             "compatibility": "All",
-            "description": "Gives you a new menu when you right click with fists equiped. Includes custom jump heights, double jump, tripple jump, and adjusts out of bounds timer as well as clear vegitation and clear all storms. Can clear cave worms, server compatible now. Turn Lights On/Off, Fire sources, and Find corpses added. Now Pauses upon opening.",
+            "description": "Gives you a new menu when you right click with fists equiped. Includes custom jump heights, double jump, tripple jump, and adjusts out of bounds timer as well as clear vegitation and clear all storms. Can clear cave worms, server compatible now. Turn Lights On/Off, Fire sources, and Find corpses added. Now Pauses upon opening. Added Experimental Mounts options with Clone button which allows you to clone a mount.",
             "imageURL": "",
             "readmeURL": "",
             "files": {
