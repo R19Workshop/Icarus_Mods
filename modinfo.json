@@ -903,9 +903,9 @@
         {
             "name": "No Poison Fish",
             "author": "Jimk72",
-            "version": "1.0",
+            "version": "1.1",
             "compatibility": "All",
-            "description": "Removes poisonous fish from all bodies of water.",
+            "description": "Removes poisonous fish from all bodies of water. Some water will still have the fish but they will no longer be aggresive.",
             "imageURL": "",
             "readmeURL": "",
             "files": {
