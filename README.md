@@ -12,13 +12,13 @@ A comprehensive collection of mods for **Icarus** by JimK72 — creator of [Icar
 
 | Category | Mods |
 |----------|------|
-| [Weapons](#-weapons) | HK 417 series, Precision Bows, Weapons Packs, Shotgun |
-| [Building & Construction](#️-building--construction) | Barn, Steel, Glass, Concrete, Fences |
-| [Deployables & Decorative](#-deployables--decorative) | Lights, Planters, Freezers, Generators |
-| [Quality of Life](#-quality-of-life) | Custom Options, Teleporter, Elevators, Extraction Speed |
-| [Mounts & Creatures](#-mounts--creatures) | Bear Mount, Pets, Mount Upgrades |
-| [Workshop Items](#-workshop-items) | Mass Storage, Camo Kits, Pistols |
-| [Changelog](#-changelog) | Update history |
+| [Weapons](#weapons) | HK 417 series, Precision Bows, Weapons Packs, Shotgun |
+| [Building & Construction](#building--construction) | Barn, Steel, Glass, Concrete, Fences |
+| [Deployables & Decorative](#deployables--decorative) | Lights, Planters, Freezers, Generators |
+| [Quality of Life](#quality-of-life) | Custom Options, Teleporter, Elevators, Extraction Speed |
+| [Mounts & Creatures](#mounts--creatures) | Bear Mount, Pets, Mount Upgrades |
+| [Workshop Items](#workshop-items) | Mass Storage, Camo Kits, Pistols |
+| [Changelog](#changelog) | Update history |
 
 ---
 
